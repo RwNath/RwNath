@@ -7,3 +7,6 @@
 
 #### **GitHub Stats**
 ![RwNath’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=rwnath&show_icons=true&theme=radical&hide_border=true)
+
+#### **Most Used Languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwnath&layout=compact&theme=radical&hide_border=true)
