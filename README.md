@@ -10,4 +10,4 @@
 #### **Most Used Languages**
 ![Top Langs](https://github-readme-stats.sodiumlabs.xyz/api/top-langs/?username=rwnath&layout=compact&theme=radical&hide_border=true)
 #### **WakaTime** 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime/?username=Nath&theme=blueberry&layout=compact&hide_border=true&langs_count=6)</a>
+![WakaTime](https://github-readme-stats.sodiumlabs.xyz/api/wakatime/?username=Nath&theme=blueberry&layout=compact&hide_border=true&langs_count=6)</a>
