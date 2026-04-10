@@ -6,8 +6,8 @@
 <a href="#">[![](https://skillicons.dev/icons?i=nextjs,react,tailwind,discordjs,mongodb,git&theme=dark)](https://github.com/RwNath)</a>
 
 #### **GitHub Stats**
-![RwNath’s GitHub Stats](https://github-readme-stats.sodiumlabs.xyz/api?username=rwnath&show_icons=true&theme=radical&hide_border=true)
+![RwNath’s GitHub Stats](https://github-readme-stats.voctal.dev/api?username=rwnath&show_icons=true&theme=radical&hide_border=true)
 #### **Most Used Languages**
-![Top Langs](https://github-readme-stats.sodiumlabs.xyz/api/top-langs/?username=rwnath&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.voctal.dev/api/top-langs/?username=rwnath&layout=compact&theme=radical&hide_border=true)
 #### **WakaTime** 
-![WakaTime](https://github-readme-stats.sodiumlabs.xyz/api/wakatime/?username=Nath&theme=blueberry&layout=compact&hide_border=true&langs_count=6)</a>
+![WakaTime](https://github-readme-stats.voctal.dev/api/wakatime/?username=Nath&theme=blueberry&layout=compact&hide_border=true&langs_count=6)</a>
