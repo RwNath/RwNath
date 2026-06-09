@@ -23,7 +23,7 @@
 | :--- | :--- |
 | **Frontend** | ![](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark) |
 | **Backend** | ![](https://skillicons.dev/icons?i=nodejs,prisma,mongodb,discordjs&theme=dark) |
-| **Languages** | ![](https://skillicons.dev/icons?i=js,ts,java&theme=dark) |
+| **Languages** | ![](https://skillicons.dev/icons?i=js,ts,java,rust&theme=dark) |
 | **Workflow** | ![](https://skillicons.dev/icons?i=git,github,vscode&theme=dark) |
 
 ---
